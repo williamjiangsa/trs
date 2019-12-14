@@ -1,6 +1,8 @@
-# trs_abf
+# Tourist Refund Scheme (TRS) - Australian Border Force
 
-trs.abf
+When using TRS app, there are many bugs, so decide to clone one app for both Android and iOS.
+
+All the functions used in the original app have been finished except QR code generation function. I can finish this part soon if I got the generation rule.
 
 ## Getting Started
 
